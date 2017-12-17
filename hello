@@ -1,0 +1,6 @@
+let greeting = "Hello, world";
+
+console.log(greeting);
+alert(greeting);
+prompt(greeting);
+confirm(greeting);
